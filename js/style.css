@@ -1,0 +1,16 @@
+  #left-panel, #right-panel {
+    border: 1px solid #eee;
+    max-width: 500px;
+    min-height: 20px;
+    margin: 0;
+    padding: 5px 0 0 0;
+    float: left;
+  }
+
+  #left-panel div.main, #right-panel div.main {    
+    border: 1px solid #bbb;
+    margin: 0 5px 5px 15px;
+    font-size: 1.2em;
+    width: 100px;
+    height: 100px;
+  }
